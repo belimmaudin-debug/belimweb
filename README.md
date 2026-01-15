@@ -23,13 +23,10 @@
     <h2>Welcome</h2>
     <p>This website works on mobile and computer.</p>
     <button> <a href="C:\Users\belim\OneDrive\Desktop\video.html">Click Me</a></button>
-    <script src="script.js"></script>
 </section>
 
 <footer>
     <p>© 2026 My Website</p>
 </footer>
-
-<script src="script.js"></script>
 </body>
 </html>
