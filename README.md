@@ -24,7 +24,7 @@
 
 <section align="center">
     <p>This website works on mobile and computer.</p>
-    <button><a href="C:\Users\belim\OneDrive\Desktop\video.html">Click Me</a></button>
+    <button onclick="window.location.hrf='C:\Users\belim\OneDrive\Desktop\video.html">Click Me</button>
 </section>
     <p>© 2026 My Website</p>
 </body>
