@@ -12,7 +12,7 @@
 </header>
 
 <nav align="center" spacing="2px">
-    <a href="C:\Users\belim\OneDrive\Desktop\video.html">Home</a>
+    <a href="C:\Users\belim\OneDrive\Desktop\video.html #">Home</a>
     <a href="#">About</a>
     <a href="#">Services</a>
     <a href="#">Contact</a>
@@ -21,7 +21,7 @@
 <section class="content">
     <h2>Welcome</h2>
     <p>This website works on mobile and computer.</p>
-    <button> <a href="C:\Users\belim\OneDrive\Desktop\video.html">Click Me</a></button>
+    <button> <a href="C:\Users\belim\OneDrive\Desktop\video.html #">Click Me</a></button>
 </section>
 
 <footer>
