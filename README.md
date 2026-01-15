@@ -1,34 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<html>
+    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BELIM rubinabelim</title>
+    <title>My Responsive Website</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<header>
-    <h1>HTPP//rubinabelim.com</h1>
+<header align="center">
+    <h1>My Website</h1>
+    <br>
+    <br>
+    <h2>Welcome</h2>
     <p>Android & PC Friendly Website</p>
 </header>
 
-<nav ali="center">
-    <a href="#">Home</a>
-    <a href="#">About</a>
-    <a href="#">Services</a>
-    <a href="#">Contact</a>
+<nav align="top left">
+    <a href="#">Home</a><br>
+    <a href="#">About</a><br>
+    <a href="#">Services</a><br>
+    <a href="#">Contact</a><br>
 </nav>
 
-<section class="content">
-    <h2>Welcome</h2>
+<section align="center">
     <p>This website works on mobile and computer.</p>
-    <button> <a href="C:\Users\belim\OneDrive\Desktop\video.html">Click Me</a></button>
+    <button><a href="C:\Users\belim\OneDrive\Desktop\video.html">Click Me</a></button>
 </section>
-
-<footer>
     <p>© 2026 My Website</p>
-</footer>
-
 </body>
 </html>
