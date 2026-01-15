@@ -28,5 +28,6 @@
     <button onclick="window.location.href='C:\Users\belim\OneDrive\Desktop\video.html"><a href="#">Click Me</a></button>
 </section>
     <p>© 2026 My Website</p>
+    <p>This website works on mobile and computer.</p>
 </body>
 </html>
