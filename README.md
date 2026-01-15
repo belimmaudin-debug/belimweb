@@ -1,3 +1,4 @@
+
 <html>
     <head>
     <meta charset="UTF-8">
@@ -24,7 +25,7 @@
 
 <section align="center">
     <p>This website works on mobile and computer.</p>
-    <button onclick="window.location.hrf='C:\Users\belim\OneDrive\Desktop\video.html">Click</button>
+    <button onclick="window.location.href='C:\Users\belim\OneDrive\Desktop\video.html">Click</button>
 </section>
     <p>© 2026 My Website</p>
 </body>
