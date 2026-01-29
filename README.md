@@ -1,4 +1,4 @@
-ca-app-pub-1639199431519278~1236749254
+
 <html>
     <head>
     <meta charset="UTF-8">
@@ -7,7 +7,7 @@ ca-app-pub-1639199431519278~1236749254
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
+ca-app-pub-1639199431519278~1236749254
 <header align="center">
     <h1>My Website</h1>
     <br>
@@ -15,6 +15,7 @@ ca-app-pub-1639199431519278~1236749254
     <h2>Welcome</h2>
     <p>Android & PC Friendly Website</p>
 </header>
+ca-app-pub-1639199431519278/5832462201
 
 <nav align="top left">
     <a href="#"C:\Users\belim\OneDrive\Desktop\video.html"">Home</a><br>
@@ -31,4 +32,3 @@ ca-app-pub-1639199431519278~1236749254
     <p>This website works on mobile and computer.</p>
 </body>
 </html>
-ca-app-pub-1639199431519278/5832462201
